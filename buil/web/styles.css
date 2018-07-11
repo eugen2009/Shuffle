@@ -22,7 +22,8 @@ html, body {
   margin-left: 25%;
   width: 50%;
   height: 50%;
-  background-color: #9a8600;
+
+  background-image: url("../res/Flip.PNG");
   background-size: cover;
   padding: 5px;
 }

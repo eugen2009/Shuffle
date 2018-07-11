@@ -2972,7 +2972,7 @@ y=y.f
 y=y[z%y.length]
 w.backgroundImage=y
 z=x.style
-z.backgroundImage="url('../res/Flip.PNG')"
+z.backgroundImage="url('/res/Flip.PNG')"
 z=x.style
 C.d.aX(z,(z&&C.d).aA(z,"background-size"),"cover","")}}}],["","",,F,{"^":"",
 hp:[function(){G.d6()},"$0","cE",0,0,1]},1]]
