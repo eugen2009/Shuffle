@@ -2924,7 +2924,7 @@ this.b=C.n
 this.d.textContent="wer k\xf6nnte fit f\xfcr diese Mission sein?\r\n            Suche einen aus!"
 this.c.textContent="STOP"
 z.a=0
-this.x=P.c0(P.bx(0,0,0,50,0,0),new G.d8(z,this))},
+this.x=P.c0(P.bx(0,0,0,100,0,0),new G.d8(z,this))},
 bE:function(){var z=this.f
 z.push("url('../res/Flip.PNG')")
 z.push("url('../res/Jeromme.PNG')")
@@ -2971,6 +2971,8 @@ w=x.style
 y=y.f
 y=y[z%y.length]
 w.backgroundImage=y
+z=x.style
+z.backgroundImage="url('../res/Flip.PNG')"
 z=x.style
 C.d.aX(z,(z&&C.d).aA(z,"background-size"),"cover","")}}}],["","",,F,{"^":"",
 hp:[function(){G.d6()},"$0","cE",0,0,1]},1]]
