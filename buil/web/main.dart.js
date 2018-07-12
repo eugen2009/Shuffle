@@ -2926,10 +2926,10 @@ this.c.textContent="STOP"
 z.a=0
 this.x=P.c0(P.bx(0,0,0,100,0,0),new G.d8(z,this))},
 bE:function(){var z=this.f
-z.push("url('../web/res/Flip.png')")
-z.push("url('../web/res/Jeromme.png')")
-z.push("url('../web/res/todd.png')")
-z.push("url('../web/res/Tony.png')")
+z.push("url('../res/Flip.png')")
+z.push("url('../res/Jeromme.png')")
+z.push("url('../res/todd.png')")
+z.push("url('../res/Tony.png')")
 this.r=P.c0(P.bx(0,0,0,1000,0,0),new G.d7(this))
 z=J.cP(document.querySelector("#playButton"))
 W.ci(z.a,z.b,this.gc8(),!1,H.V(z,0))},

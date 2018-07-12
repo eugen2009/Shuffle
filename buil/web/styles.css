@@ -22,8 +22,6 @@ html, body {
   margin-left: 25%;
   width: 50%;
   height: 50%;
-
-  background-image: url("Shuffle/buil/web/res/Flip.PNG");
   background-size: cover;
   padding: 5px;
 }
