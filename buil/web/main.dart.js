@@ -2924,12 +2924,29 @@ this.b=C.n
 this.d.textContent="wer k\xf6nnte fit f\xfcr diese Mission sein?\r\n            Suche einen aus!"
 this.c.textContent="STOP"
 z.a=0
-this.x=P.c0(P.bx(0,0,0,100,0,0),new G.d8(z,this))},
+this.x=P.c0(P.bx(0,0,0,200,0,0),new G.d8(z,this))},
 bE:function(){var z=this.f
 z.push("url('../res/Flip.png')")
 z.push("url('../res/Jeromme.png')")
 z.push("url('../res/todd.png')")
 z.push("url('../res/Tony.png')")
+z.push("url('../res/Asta.png')")
+z.push("url('../res/BigWing.png')")
+z.push("url('../res/Brewster.png')")
+z.push("url('../res/Coco.png')")
+z.push("url('../res/Daley.png')")
+z.push("url('../res/Disy.png')")
+z.push("url('../res/Frostini.png')")
+z.push("url('../res/Hanzo.png')")
+z.push("url('../res/Jet.png')")
+z.push("url('../res/Mira.png')")
+z.push("url('../res/OnkelAlbert.png')")
+z.push("url('../res/palasatik.png')")
+z.push("url('../res/Paul.png')")
+z.push("url('../res/Piper.png')")
+z.push("url('../res/Super Chugger.png')")
+z.push("url('../res/Time.png')")
+z.push("url('../res/Wilson.png')")
 this.r=P.c0(P.bx(0,0,0,1000,0,0),new G.d7(this))
 z=J.cP(document.querySelector("#playButton"))
 W.ci(z.a,z.b,this.gc8(),!1,H.V(z,0))},
