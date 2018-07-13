@@ -28,7 +28,7 @@ html, body {
 }
 
 #playButton {
-  margin-left: 45%;
+  margin-left: 15px;
   background: #00340a;
   -webkit-border-radius: 5;
   -moz-border-radius: 5;
@@ -39,6 +39,20 @@ html, body {
   padding: 7px 40px 7px 40px;
   text-decoration: none;
   z-index: 100;
+}
+
+#select{
+    margin-left: 15%;
+    background: #00340a;
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    font-family: Arial;
+    color: #00ff16;
+    font-size: 20px;
+    padding: 7px 40px 7px 40px;
+    text-decoration: none;
+    z-index: 100;
 }
 
 #playButton:hover {
