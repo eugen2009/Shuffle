@@ -2951,6 +2951,11 @@ z.push("url('../res/lusi.png')")
 z.push("url('../res/lusi1.png')")
 z.push("url('../res/Tomy_vromiz.png')")
 z.push("url('../res/speedy.png')")
+z.push("url('../res/JN.png')")
+z.push("url('../res/JN.png')")
+z.push("url('../res/JN.png')")
+z.push("url('../res/JN.png')")
+z.push("url('../res/JN.png')")
 this.r=P.c0(P.bx(0,0,0,1000,0,0),new G.d7(this))
 z=J.cP(document.querySelector("#playButton"))
 W.ci(z.a,z.b,this.gc8(),!1,H.V(z,0))},
@@ -2991,7 +2996,8 @@ x=y.e
 w=x.style
 y=y.f
 y=y[z%y.length]
-w.backgroundImage=y
+w.toString
+w.backgroundImage=y==null?"":y
 z=x.style
 C.d.aX(z,(z&&C.d).aA(z,"background-size"),"cover","")}}}],["","",,F,{"^":"",
 hp:[function(){G.d6()},"$0","cE",0,0,1]},1]]
