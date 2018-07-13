@@ -2937,7 +2937,7 @@ this.c.textContent="Mission erf\xfcllt"
 this.y.a2()
 break
 case C.t:this.b=C.i
-this.d.textContent="las mal schauen wer als n\xe4chster dran ist."
+this.d.textContent="mal schauen wer als n\xe4chster dran ist."
 this.c.textContent="Los geht's"
 z=this.e.style
 z.backgroundImage=""
